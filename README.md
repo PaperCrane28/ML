@@ -28,14 +28,17 @@ The goal of this project is to demonstrate the application of reinforcement lear
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/qlearning-snake-game.git
-   cd qlearning-snake-game
+   git clone https://github.com/PaperCrane28/ML cd SnakeGame Files
    ```
 
 2. **Install Dependencies**:
    Ensure you have Python installed, then install the required packages using pip:
    ```bash
-   pip install numpy pygame
+   pip install numpy as np
+   pip install pygame
+   pip install random
+   pip install sys
+   pip install time
    ```
 
 3. **Run the Game**:

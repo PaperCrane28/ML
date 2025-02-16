@@ -16,7 +16,7 @@ This project implements a simple Snake game using Pygame and a Q-Learning agent 
 
 The goal of this project is to demonstrate the application of reinforcement learning in a simple environment. The snake learns to navigate the grid, avoid collisions, and consume food to maximize its score.
 
-![Snake Game](snake_game.gif)
+![Snake Game](gif/snake_game.gif)
 
 ## Features
 

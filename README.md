@@ -82,13 +82,11 @@ The main function initializes the game and the Q-Learning agent, runs multiple e
 
 Contributions are welcome! Please feel free to submit a pull request or open an issue to discuss improvements, bug fixes, or new features.
 
-## License
+## Reference
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+https://developer.aliyun.com/article/1581658
 
----
-
-Enjoy the game, and happy learning!
+https://gitcode.com/gh_mirrors/te/Tetris-deep-Q-learning-pytorch/?utm_source=artical_gitcode&index=top&type=href&
 
 ---
 
